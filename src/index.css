@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+
+
+.mapboxgl-popup-content {
+  border-radius: 8px !important;
+  padding:12px !important;
+  font-family: 'Inter', sans-serif;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.mapboxgl-popup-tip {
+  border-top-color: white !important;
+}

@@ -1,0 +1,26 @@
+# Map & Profiles App 🗺️👤
+
+An interactive web app to view user profiles linked with their locations on a Mapbox map.
+
+## 🚀 Features
+
+- View detailed user profiles
+- Interactive Mapbox map integration
+- Responsive UI using Tailwind CSS
+- State management with Zustand
+- Route-based navigation (React Router)
+
+## 📸 Screenshots
+
+<!-- Optional: Add images/gifs showing your UI -->
+(will be added soon)
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **Mapbox GL JS**
+- **Zustand** (for state management)
+- **React Router**
+
+
